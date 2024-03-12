@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbc8a585-b5a6-4c3f-a654-82737d505007" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/allure-results/082272e6-3445-49fc-b93c-d46aac116f60-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0c5da630-4b3e-48ac-bff8-03d251790a57-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0df04af9-5de9-481a-bd77-a4d269438e31-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1a65823b-7589-4872-a001-d800328f45d2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1d33e559-3eb4-4816-b211-4856a56e3af5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1fa37e7a-616d-4531-a626-856bcbf8ad5e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/21d39fbf-8fa5-4e58-90e2-bc41705e64e4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2b410cc5-6a3e-4a63-940c-01739aa1fe05-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/32ee9b75-8c0a-4211-8871-8f45b33f92fe-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/33f99a26-870b-4e89-9f3d-3a274b289d1a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3e547f56-bb2c-4954-9cf3-b543e313b468-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/47fecc91-9d31-4a6d-afde-fc6f40a1ca0f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4e33db10-9d5e-4866-8eda-46a33ed48dfa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4f80c6ed-3339-4872-af3d-dd6b772af4e6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/64a3f325-48c7-426f-851d-72c54fc9520d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/66982f7a-97b7-4ef8-a2a4-ff24e337049e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7cf674d9-98d6-4256-8087-d79eef955a69-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7fb3d105-e691-490f-8660-4d0cc0e3a771-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/80841c2a-e492-4866-8b92-abc172cb5a92-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/939d09bb-09dc-472a-99f5-3f3a7ec4acda-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/96b31714-49aa-4132-bd5f-e1ac2afa9d14-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9ad77d1a-4f12-4d7c-8f78-4c908bda8d83-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a3a385b7-c596-457a-a607-c47a1d618d48-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b598a118-ab07-4e64-b762-d09620876eed-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b89c3f0e-022c-4075-a1d5-aa8f24799d5d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bbf3762a-359f-483e-8525-8d71cdb95ef9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c6036783-901b-45f2-8ed8-ac6b0d90b3e4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cc5617aa-47ac-4a8a-abaa-3abadba00bc5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d1bb87fd-fc33-4590-82a5-8993b81abe27-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d963c855-4b46-41b8-ad61-5e723464ffc3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ec3fe8d0-27f1-472c-b922-82304c87c869-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f52a438d-03fa-4a0f-93a5-779842b8e675-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TestCase01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/TestCase01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TestCase02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/TestCase02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TestCase03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/TestCase03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2dXEK5bZKvtln6z2mAedlaph0Lb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Selenium05.executor": "Run",
+    "Application.Selenium06.executor": "Run",
+    "Application.Selenium08.executor": "Run",
+    "Application.Selenium09.executor": "Run",
+    "Application.Selenium10.executor": "Run",
+    "JUnit.AppTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.Learning_Selenium [clean].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/Rohit/IdeaProjects/Learning_Selenium/testng.xml.executor": "Run",
+    "TestNG.Selenium03.executor": "Run",
+    "TestNG.Selenium03.testMethod.executor": "Run",
+    "TestNG.Selenium10.testVWOLogin.executor": "Run",
+    "TestNG.Selenium11.executor": "Run",
+    "TestNG.Selenium11.testVWOlogin.executor": "Run",
+    "TestNG.TestCase02.executor": "Debug",
+    "TestNG.TestCase03.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.33333334"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.Selenium11.testVWOlogin">
+    <configuration name="C:/Users/Rohit/IdeaProjects/Learning_Selenium/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium10.testVWOLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Selenium" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Selenium.Selenium10" />
+      <option name="METHOD_NAME" value="testVWOLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium11" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Selenium" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Selenium.Selenium11" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium11.testVWOlogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Selenium" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Selenium.Selenium11" />
+      <option name="METHOD_NAME" value="testVWOlogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase03" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestCase03" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Selenium11.testVWOlogin" />
+        <item itemvalue="TestNG.Selenium11" />
+        <item itemvalue="TestNG.C:/Users/Rohit/IdeaProjects/Learning_Selenium/testng.xml" />
+        <item itemvalue="TestNG.TestCase03" />
+        <item itemvalue="TestNG.Selenium10.testVWOLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbc8a585-b5a6-4c3f-a654-82737d505007" name="Changes" comment="" />
+      <created>1710145959607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710145959607</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

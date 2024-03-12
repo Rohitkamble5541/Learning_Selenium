@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Rohit/IdeaProjects/Learning_Selenium">
+        <classes>
+            <class name="org.example.Selenium.Selenium02">
+                <methods>
+                    <include name="testMethod"/>
+                </methods>
+            </class>
+            <class name="org.example.Selenium.Selenium03">
+                <methods>
+                    <include name="testMethod"/>
+                </methods>
+            </class>
+            <class name="org.example.Selenium.Selenium10">
+                <methods>
+                    <include name="testVWOLogin"/>
+                </methods>
+            </class>
+            <class name="org.example.TestCase02">
+                <methods>
+                    <include name="vwoLogin"/>
+                </methods>
+            </class>
+            <class name="org.example.TestCase03">
+                <methods>
+                    <include name="testVWOLogin"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
