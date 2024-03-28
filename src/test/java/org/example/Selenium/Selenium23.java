@@ -30,9 +30,6 @@ public class Selenium23 {
     }
 
 
-
-
-
     @Test(groups = "QA")
     @Description("Test Case Description")
     public void testPositive() throws InterruptedException {
@@ -59,28 +56,6 @@ public class Selenium23 {
 
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     @AfterTest
     public void closeBrowser(){
