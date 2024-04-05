@@ -2,11 +2,11 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true"
-          name="C:/Users/Rohit/IdeaProjects/Learning_Selenium/src/test/java/org/example/Selenium/Selenium19.java">
+          name="C:/Users/Rohit/IdeaProjects/Learning_Selenium/src/test/java/org/example/Selenium/MiniProject/Mini_project.java">
         <classes>
-            <class name="org.example.Selenium.Selenium19">
+            <class name="org.example.Selenium.MiniProject.Mini_project">
                 <methods>
-                    <include name="TestPositive"/>
+                    <include name="testPositive"/>
                 </methods>
             </class>
         </classes>

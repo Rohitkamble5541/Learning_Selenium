@@ -12,6 +12,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
+import javax.print.attribute.HashAttributeSet;
 import java.util.List;
 
 public class Mini_project {
@@ -80,7 +81,6 @@ public class Mini_project {
         String conmessage = confirmcommentmsg.getText();
         //System.out.println(conmessage);
         Assert.assertEquals(conmessage , "Hello Autoamtion 123");
-
 
 
     }
